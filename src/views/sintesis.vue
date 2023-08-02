@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 En resumen, la elaboración de un plan de compras implica que se analicen los requerimientos, se establezcan políticas y presupuesto, se programen las adquisiciones y se valide el plan de acuerdo con la normatividad vigente. Además, se debe definir el plan de compras en función de las políticas y el presupuesto establecidos. A continuación, se presenta un esquema que aborda estos aspectos.
 
     .row.justify-content-center
       .col-lg-10.mb-5

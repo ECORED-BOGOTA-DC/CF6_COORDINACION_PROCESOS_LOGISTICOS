@@ -1,19 +1,286 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 14%
+    left: 3%
+    width: 21%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    bottom: 17%
+    left: 32%
+  &-3
+    animation: vanish 5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 17%
+    left: 32%
+  &-4
+    animation: vanish 4s ease-in-out infinite alternate
+    position: absolute
+    bottom: 56%
+    left: 11.5%
+    width: 9%
+  &-5
+    animation: rotation 6s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    left: 25%
+    width: 7%
+  &-6
+    animation: rotation 4s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 13%
+    width: 6%
+  &-7
+    animation: vanish 8s ease-in-out infinite alternate
+    position: absolute
+    top: 16.5%
+    left: 33%
+    width: 12%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateX(30px)
   100%
-    transform: translateY(0px)
+    transform: translateX(0px)
+  
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+  
+@keyframes rotation
+  0%
+    transform: rotate(0deg)
+  50%
+    transform: rotate(180deg)
+  100%
+    transform: rotate(359deg)
+  
+.banner-principal__row .banner-principal__img
+  width: 40%
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG01
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01, .BGM05
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BG01
+  background-color: #F6F6F6
+
+.BG01.acordion__activo
+  background-color: #E9F0FE
+
+.BGR02
+  background-color: #EEF3FE
+
+.BGR03A, .BGR03B, .BGR03C, .BGR03D, .BGR03E, .BGR03F, .img-infografica.color-primario.circle-white .img-infografica__item__dot:before, .img-infografica.color-primario.circle-white .img-infografica__item__dot:after
+  background-color: $white
+
+.BG04
+  background-color: #FFEAE7
+
+.BGM05
+  background: linear-gradient(to bottom, #FFF, #E9FFFE, #FFF)
+
+.BGR06
+  background-color: #91B3FA
+  
+.BGR07
+  background-color: #57DBD8
+
+.BG08
+  background-color: #FECEC9
+
+.BG09
+  background-color: #D9E4FC
+
+.bloque-texto-f.color-primario:before
+  background-color: #CFE8FE
+
+.acordion__accion__btn--a
+  background-color: $color-secundario
+
+.bloque-texto-a.color-primario, .bloque-texto-a.color-secundario
+  background-color: $color-adicional-1
+
+.BGR02, .BGR03A, .BGR03B, .BGR03C, .BGR03D, .BGR03E, .BGR03F
+  border-radius: 15px
+
+.BGR06, .BGR07
+  border: 2px solid $white
+  border-radius: 10px
+  box-shadow: 2px 2px 8px #707070
+
+.BGR03A
+  border: 3px solid #CB594E
+
+.BGR03B
+  border: 3px solid #FE7062
+
+.BGR03C
+  border: 3px solid #91B3FA
+
+.BGR03D
+  border: 3px solid #1A0F91
+
+.BGR03E
+  border: 3px solid #45AFAC
+
+.BGR03F
+  border: 3px solid #57DBD8
+
+.acordion__accion__btn--a i
+  color: white
+
+.text-blue
+  color: #006DF0
+
+.text-secundario
+  color: $color-secundario
+
+.slyder-a__bullets__item--active
+  background-color: #1A0F91 !important
+
+.slyder-a__bullets__item
+  background-color: #A4A3D8
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/arrow-red.svg")
+
+.slyder-a__btn--sigt
+  transform: rotate(0deg) !important
+
+.slyder-a__btn--atrs
+  transform: rotate(180deg) !important
+
+.img-infografica__item
+  width: 3.75%
+
+.img-infografica.color-secundario.large-circle, .img-infografica.color-acento-botones.large-circle, .img-infografica.color-primario.large-circle
+  .img-infografica__content
+    .img-infografica__item
+      width: 12% !important
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: 900
+
+.hg-01
+  height: 356px
+  @media (max-width: $bp-max-xl)
+    height: 380px
+  @media (max-width: $bp-max-lg)
+    height: 476px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-02
+  height: 333px
+  @media (max-width: $bp-max-xl)
+    height: 405px
+  @media (max-width: $bp-max-lg)
+    height: 501px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.img-01
+  position: relative
+  top: -30px
+  @media (max-width: $bp-max-md)
+    top: -30px
+
+.tabs-a__tab
+  background-color: #F6F6F6
+  @media (max-width: $bp-max-xl)
+    padding: 15px 10px
+  @media (max-width: $bp-max-lg)
+    padding: 15px 20px
+  
+.tarjetas-up, .tarjetas-up2
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    height: 100%
+    left: 0
+    i:last-child
+      display: none
+  &:hover
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+    
+.tarjetas-up
+  &_card
+    bottom: -78%
+    @media (max-width: $bp-max-xl)
+      bottom: -81%
+    @media (max-width: $bp-max-md)
+      bottom: -79%
+    @media (max-width: $bp-max-sm)
+      bottom: -84%
+  &:hover
+    .tarjetas-up_card
+      bottom: -15%
+      @media (max-width: $bp-max-xl)
+        bottom: -32%
+      @media (max-width: $bp-max-lg)
+        bottom: -10%
+      @media (max-width: $bp-max-md)
+        bottom: -16%
+      @media (max-width: $bp-max-sm)
+        bottom: -40%
+      @media (max-width: $bp-max-xs)
+        bottom: 0
+
+.tarjetas-up2
+  &_card
+    bottom: -84%
+    @media (max-width: $bp-max-md)
+      bottom: -81%
+    @media (max-width: $bp-max-sm)
+      bottom: -84%
+  &:hover
+    .tarjetas-up2_card
+      bottom: -40%
+      @media (max-width: $bp-max-xl)
+        bottom: -32%
+      @media (max-width: $bp-max-lg)
+        bottom: 0%
+      @media (max-width: $bp-max-md)
+        bottom: -12%
+      @media (max-width: $bp-max-sm)
+        bottom: -40%
+      @media (max-width: $bp-max-xs)
+        bottom: 0
+    
