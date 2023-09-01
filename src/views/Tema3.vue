@@ -113,7 +113,7 @@
     .row.justify-content-center.mb-5
       .col
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Tabla 2.
+          h5 Tabla 1.
           span Proceso para el requerimiento de un pedido
         .tabla-a.color-primario
           table(data-aos="zoom-in"  alt="Texto alternativo tabla")

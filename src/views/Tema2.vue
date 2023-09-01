@@ -173,7 +173,7 @@
             figure
               img(src='@/assets/curso/tema2/img10.svg')
           .tarjeta.BGR03F.p-3(x="60%" y="11%" numero="1")
-            p Son costos incurridos por una empresa u organización para asegurar un cierto nivel de servicio a sus clientes y proveedores. Según (Ballou, R. , 2005), existen varias clasificaciones. Estos son los costos de distribución, los costos de adquisición física y los costos de servicio al cliente.
+            p Son costos incurridos por una empresa u organización para asegurar un cierto nivel de servicio a sus clientes y proveedores. Según (Ballou, 2005), existen varias clasificaciones. Estos son los costos de distribución, los costos de adquisición física y los costos de servicio al cliente.
             p.mb-0 Para el caso que nos compete, en relación a las compras, se estimaran los costos según los suministros físicos:
           .tarjeta.BGR03F.p-3(x="60%" y="43%" numero="2")
             p Son costos que tienen que ver con transporte de bienes de suministro o insumos, costo de inventarios de bienes de suministro o insumos, costo de procesamiento de pedidos, costo de almacenamiento, costo de administración y gastos generales asociados a los costos de suministro. Hay que tener en cuenta que este costo posee categorías similares al de los costos de distribución y en ambos casos es necesario ejercer control.

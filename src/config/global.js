@@ -312,15 +312,17 @@ export default {
   referencias: [
     {
       referencia:
-        'Ariño, A. (2007). Alianzas estratégicas: opciones para el crecimiento de la empresa (I). Estrategia Financiera, 236, 40 - 51.',
+        'Ariño, A. (2007). Alianzas estratégicas: opciones para el crecimiento de la empresa (I). <em>Estrategia Financiera</em>, 236, 40 - 51.',
     },
     {
       referencia:
-        'Consultora QuestionPro. (2020). <em>¿Qué es una evaluación de proveedores?</em>',
+        'Consultora QuestionPro. (2020). <em>Evaluación de proveedores: Qué es y cuáles son sus beneficios.</em>',
+
       link: 'https://www.questionpro.com/blog/es/evaluacion-de-proveedores/',
     },
     {
-      referencia: 'Espinosa, R. (2021). <em>Tipos de benchmarking.</em>',
+      referencia:
+        'Espinosa, R. (2021). <em>Benchmarking: qué es, tipos, etapas y ejemplos.</em>',
       link:
         'https://robertoespinosa.es/2017/05/13/benchmarking-que-es-tipos-ejemplos ',
     },
@@ -346,7 +348,7 @@ export default {
     },
     {
       referencia:
-        'Publishing, M. (2007). <em>Compras e inventarios</em>. Ediciones Díaz de Santos<.',
+        'Publishing, M. (2007). <em>Compras e inventarios</em>. Ediciones Díaz de Santos.',
     },
     {
       referencia:

@@ -36,7 +36,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 5.
+          h5 Figura 2.
           span Requisitos Norma ISO 9001 para las compras
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema6/img02.svg' alt="Imagen decorativa")
@@ -47,7 +47,7 @@
     p Es la base del sistema de gestión de la calidad. Es un estándar internacional que se enfoca en todos los elementos de la gestión de la calidad que las empresas necesitan para construir sistemas efectivos que les permitan controlar y mejorar la calidad de sus productos o servicios.
     p <span style="background-color: #E8F7FF; padding: 5px">#[strong Los clientes se inclinan por los proveedores que cuentan con esta acreditación]</span> porque de este modo se aseguran de que la empresa seleccionada disponga de un buen Sistema de Gestión de la Calidad.
     p Al hacerlo, se identifica la capacidad de proporcionar productos y servicios que satisfagan las necesidades de nuestros clientes y los requisitos legales y reglamentarios aplicables para mejorar la satisfacción del cliente a través de la evaluación de la satisfacción del cliente, el progreso y el cumplimiento del proceso.
-    p #[strong ISO 9001]: 2015 se encarga de los requisitos básicos para un sistema de gestión de la calidad enfocado a una organización que requiere:
+    p #[strong ISO 9001: 2015] se encarga de los requisitos básicos para un sistema de gestión de la calidad enfocado a una organización que requiere:
     ul.lista-ul--color
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
@@ -55,12 +55,12 @@
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Mejorar la satisfacción del cliente o experiencia de usuario con la aplicación del sistema, en este sistema se incluye las mejoras continuas y la garantía de conformidad para con los clientes junto con la normatividad y reglamento de cumplimiento a cabalidad de las misiones empresariales.
-    p.mb-5 #[strong La norma ISO 9001]: 2015 presenta requisitos que son genéricos y buscan ser aplicables de manera transversal a las organizaciones sin importar su campo de acción, su tipo, su tamaño o de los servicios que presta o productos que vende.
+    p.mb-5 #[strong La norma ISO 9001: 2015] presenta requisitos que son genéricos y buscan ser aplicables de manera transversal a las organizaciones sin importar su campo de acción, su tipo, su tamaño o de los servicios que presta o productos que vende.
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 6.
+          h5 Figura 3.
           span Ciclo de gestión de la calidad ISO 9001:2015
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema6/img03.svg' alt="Imagen decorativa")
@@ -239,7 +239,7 @@
     p La evaluación de proveedores es un término utilizado por muchas empresas y organizaciones para evaluar y aprobar proveedores actuales y potenciales a través de una serie de evaluaciones. 
     p.mb-5 Para realizar dicho proceso se encuentran las siguientes herramientas:
     
-    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> 6.3.1	Modelo Carter 10 C's
+    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i>Modelo Carter 10 C's
 
     p Para la Consultora QuestionPro (2020) “una de las mejores formas de realizar esta evaluación es crear un formulario o formato de evaluación de proveedores”. Esta evaluación consta de una serie de preguntas basadas en parámetros como capacidad, capacidad, consistencia, calidad, conocido como Carter Model 10 C, para confirmar que la oferta es el mejor proveedor de su clase (o de su industria). 
     p Este formulario de evaluación es esencial para monitorear y medir el desempeño de los proveedores para ayudar a las empresas a reducir costos, analizar riesgos y mantener márgenes, con el fin de mejorar continuamente el desempeño comercial. 
@@ -301,7 +301,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Tabla 3.
+          h5 Tabla 2.
           span Índices financieros
         .tabla-a.color-primario
           table(data-aos="zoom-in"  alt="Texto alternativo tabla")
