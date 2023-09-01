@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.jpg')})`}" alt="Imagen decorativa" data-aos="fade-left"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Las compras son las adquisiciones de las empresas, se trata de suministrar de manera estable y frecuente materiales, bienes y/o servicios, para garantía de todos los recursos que necesarios en la cadena de producción. Estos bienes y/o servicios deben conseguirse en las cantidades necesarias solicitadas por cada parte de la empresa teniendo en cuenta tiempo, costo y previendo las necesidades básicas evitando trámites de sobrecostos y urgencias de última hora. Algunos de los conceptos más importantes se refieren a continuación:
+        p.mb-0 Las compras son las adquisiciones de las empresas, se trata de suministrar de manera estable y frecuente materiales, bienes y/o servicios, para garantía de todos los recursos que necesarios en la cadena de producción. Estos bienes y/o servicios deben conseguirse en las cantidades necesarias solicitadas por cada parte de la empresa, teniendo en cuenta tiempo, costo y previendo las necesidades básicas, evitando trámites de sobrecostos y urgencias de última hora. Algunos de los conceptos más importantes se refieren a continuación.
 
     separador
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -104,7 +104,7 @@
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.3 Función de las compras en los procesos logísticos
     
-    p.mb-5 La definición más racional de una propuesta es la cantidad de bienes o servicios que vende el vendedor. Estos bienes y servicios pueden ser cualquier cosa que se les ocurra. Para seguir siendo competitivos y obtener ingresos satisfactorios en el mercado, es necesario administrar materias primas y productos a precios bajos que permitan requisitos de calidad y servicio. Para este trabajo se requieren unos objetivos que hacen de este proceso un proceso de gran importancia como se puede ver a continuación:
+    p.mb-5 La definición más racional de una propuesta es la cantidad de bienes o servicios que vende el vendedor. Estos bienes y servicios pueden ser cualquier cosa que se les ocurra. Para seguir siendo competitivos y obtener ingresos satisfactorios en el mercado, es necesario administrar materias primas y productos a precios bajos que permitan requisitos de calidad y servicio. Para este trabajo se requieren unos objetivos que hacen de este proceso un proceso de gran importancia, como se puede ver a continuación:
 
     
     .row.justify-content-center.mb-5
@@ -149,7 +149,7 @@
                     | Asegurar una fuente continua de materias primas para promover el área de producción de la empresa. 
                   li(style="margin-bottom: 2px; display: flex" data-aos="fade-left")
                     i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-                    | Intervenir directamente en el movimiento de producción y las funciones temporales de la organización ya que gestiona directamente la ciclicidad de los argumentos. 
+                    | Intervenir directamente en el movimiento de producción y las funciones temporales de la organización, ya que gestiona directamente la ciclicidad de los argumentos. 
                   li(style="margin-bottom: 2px; display: flex" data-aos="fade-left")
                     i.fas.fa-chevron-circle-right(style="color: #FE7062;")
                     | Controlar estrictamente la gestión de inventario para evitar cargas financieras al fijar el precio de los productos. 
@@ -161,7 +161,7 @@
     #t_1_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.4 Selección de proveedores
     
-    p.mb-5 Se entiende como proveedor a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de trabajo o actividad económica esperando un beneficio a cambio que puede ser económico o en especie. Esta cláusula puede aplicarse tanto a los bienes o servicios destinados a ser procesados y vendidos, como a las materias primas para su posterior modificación en elementos de producción.
+    p.mb-5 Se entiende como proveedor a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de trabajo o actividad económica, esperando un beneficio a cambio que puede ser económico o en especie. Esta cláusula puede aplicarse tanto a los bienes o servicios destinados a ser procesados y vendidos, como a las materias primas para su posterior modificación en elementos de producción.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -267,7 +267,7 @@
           li(style="display: flex" data-aos="fade-left")
             .lista-ol--cuadro__vineta 
               span.text-bold p
-            | Sus servicios de post ventas.
+            | Sus servicios de posventas.
           li(style="display: flex" data-aos="fade-left")
             .lista-ol--cuadro__vineta 
               span.text-bold q
@@ -332,7 +332,7 @@
             p.mb-0 #[strong Reducir riesgos]: algunos proyectos requieren inversiones que pueden amenazar la salud económica y financiera de la empresa debido a su tamaño y riesgos.
           li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
             i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-            p.mb-0 #[strong Cumplir con requisitos gubernamentales]: continúa siendo de importancia en algunos casos particulares..h4.mb-5
+            p.mb-0 #[strong Cumplir con requisitos gubernamentales]: continúa siendo de importancia en algunos casos particulares.
         
 </template>
 

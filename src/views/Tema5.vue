@@ -23,11 +23,11 @@
       div(titulo="Almacenamiento")
         p.mb-0 Tan pronto como se haya realizado el suministro de productos e inventarios, se genera la oferta, que está garantizada hasta que salga al público con cantidades exactas.
       div(titulo="Ejecución de la compra")
-        p.mb-0 Es la fase en la que se ha producido el contrato comercial con el cliente, es ahí en donde se define de quién es la responsabilidad del transporte y de los envíos, la mayoría de veces depende de la empresa a pesar que el cliente pague por el producto pero se puede tener clientes que vayan a la tienda y saquen su producto, desde ese momento la responsabilidad es compartida con más peso en el cliente.
+        p.mb-0 Es la fase en la que se ha producido el contrato comercial con el cliente, es ahí en donde se define de quién es la responsabilidad del transporte y de los envíos, la mayoría de veces depende de la empresa a pesar de que el cliente pague por el producto pero se puede tener clientes que vayan a la tienda y saquen su producto, desde ese momento la responsabilidad es compartida con más peso en el cliente.
       div(titulo="Transporte")
         p.mb-0 Esta es la fase que incluye toda la promesa de servicio al cliente y logística, ya que el producto sale de almacenes hasta que llegan a los clientes finales. En este momento, es importante que el producto esté en cualquier momento y que la trazabilidad del momento pueda crecer constantemente desde el momento en que proviene del campamento hasta que llegue a las manos del cliente. Además, esta fase es esencial para una distribución lógica de los paquetes, que se lleva a cabo de la manera más efectiva posible de las posibles rutas de distribución de las mercancías.
       div(titulo="Recepción y servicio posventa")
-        p.mb-0 En esta última fase, el producto finalmente llegó a las manos del cliente y se considera llenado por el proceso de logística. Sin embargo, se debe recordar que el cliente generalmente tiene la oportunidad de devolverla o cambiarla después de la entrega favorable del producto del producto.  En este caso, el servicio postventa se incluiría en la continuación de la última fase logística.
+        p.mb-0 En esta última fase, el producto finalmente llegó a las manos del cliente y se considera llenado por el proceso de logística. Sin embargo, se debe recordar que el cliente generalmente tiene la oportunidad de devolverla o cambiarla después de la entrega favorable del producto.  En este caso, el servicio posventa se incluiría en la continuación de la última fase logística.
 
     separador
     #t_5_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -47,7 +47,7 @@
             .BGR06.img-01.p-3
               .h4.text-center.mb-0 Artículos A
             p En cantidad, suelen ocupar #[strong el 20% de los inventarios], pero son los que más rotación experimentan y, por tanto, tienen una importancia estratégica. Las referencias A son los productos en los que la empresa tiene invertido más presupuesto y generan el 80% de los ingresos, por lo que es prioritario evitar las roturas de stock.
-            p Los productos de mayor importancia, categoría A, deberían estar asociado a un mayor nivel de servicio.
+            p Los productos de mayor importancia, categoría A, deberían estar asociados a un mayor nivel de servicio.
         .col-12.d-lg-none.d-flex
           <br><br>
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="flip-up")

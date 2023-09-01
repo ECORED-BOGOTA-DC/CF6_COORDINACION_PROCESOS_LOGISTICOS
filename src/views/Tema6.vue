@@ -22,7 +22,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left(style="color: #3BC192")
             i.fas.fa-quote-right(style="color: #3BC192")
-          h4.text-regular.bloque-texto-f__texto son un conjunto de normas orientadas a ordenar la gestión de una empresa en sus distintos ámbitos. La alta competencia internacional acentuada por los procesos globalizadores de la economía y el mercado y el poder e importancia que ha ido tomando la figura y la opinión de los consumidores, ha propiciado que dichas normas, pese a su carácter voluntario, hayan ido ganando un gran reconocimiento y aceptación internacional.
+          h4.text-regular.bloque-texto-f__texto Son un conjunto de normas orientadas a ordenar la gestión de una empresa en sus distintos ámbitos. La alta competencia internacional acentuada por los procesos globalizadores de la economía y el mercado y el poder e importancia que ha ido tomando la figura y la opinión de los consumidores, ha propiciado que dichas normas, pese a su carácter voluntario, hayan ido ganando un gran reconocimiento y aceptación internacional.
           .bloque-texto-f__autor.mb-3
             h3.mb-0 ISO, 2021
           .bloque-texto-f__avatar
@@ -51,7 +51,7 @@
     ul.lista-ul--color
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-        | Demostrar capacidad de producción con productos y servicios que se encentran con todos los requisitos legales y reglamentarios del cliente
+        | Demostrar capacidad de producción con productos y servicios que se encuentran con todos los requisitos legales y reglamentarios del cliente
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Mejorar la satisfacción del cliente o experiencia de usuario con la aplicación del sistema, en este sistema se incluye las mejoras continuas y la garantía de conformidad para con los clientes junto con la normatividad y reglamento de cumplimiento a cabalidad de las misiones empresariales.
@@ -91,9 +91,9 @@
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Una moda.
     
-    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Tipos de #[em Benchmarking]
+    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Tipos de #[em benchmarking]
 
-    p.mb-5 Para Espinosa (2021), dentro del Benchmarking se pueden destacar cuatro niveles de implementación:
+    p.mb-5 Para Espinosa (2021), dentro del #[em benchmarking] se pueden destacar cuatro niveles de implementación:
 
     <br><br>
     .BGIMG01.px-md-5.px-4.mb-5
@@ -120,7 +120,7 @@
               .h4.text-center.mb-0 #[em Benchmarking] competitivo
             p Busca medir los productos, servicios, procesos y características de nuestros principales competidores para nuestro negocio y esforzarnos por detectar y lograr mejores mejoras que nuestros competidores.
 
-    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Etapas de #[em Benchmarking]
+    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Etapas de #[em benchmarking]
 
     p.mb-5 Para diseñar y hacer correctamente un proceso de #[em benchmarking], se recomienda llevar a cabo los siguientes pasos:
 
@@ -159,7 +159,7 @@
               ul.lista-ul--color
                 li(style="margin-bottom: 2px; display: flex")
                   i.fas.fa-chevron-circle-right(style="color: #1A0F91;")
-                  | La recopilación de datos es fundamental para el benchmarking, de ello dependerá en gran medida el éxito o el fracaso de todo el proceso. Podemos obtener datos de diferentes fuentes: interna, asociaciones profesionales o investigaciones propias, entre otras.
+                  p.mb-0 La recopilación de datos es fundamental para el #[em benchmarking], de ello dependerá en gran medida el éxito o el fracaso de todo el proceso. Podemos obtener datos de diferentes fuentes: interna, asociaciones profesionales o investigaciones propias, entre otras.
         .col-lg-4.col-md-6.col-10.mb-4(data-aos="fade-left")
           .tarjetas-up2(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
@@ -213,7 +213,7 @@
                   | Poner en práctica y supervisar la ejecución de planes de acción. 
                 li(style="margin-bottom: 2px; display: flex")
                   i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-                  | Fijar nuevamente metas del benchmarking
+                  p.mb-0 Fijar nuevamente metas del #[em benchmarking]
         .col-lg-4.col-md-6.col-10(data-aos="fade-left")
           .tarjetas-up2(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")

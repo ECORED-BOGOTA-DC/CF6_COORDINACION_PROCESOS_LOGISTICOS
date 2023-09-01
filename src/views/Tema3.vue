@@ -223,7 +223,7 @@
       h2 3.4 Elaboración del plan de compras
     
     p Un plan de compras es una herramienta que sirve:
-    p para definir las necesidades de insumos (bienes, servicios y obras) de una organización en un período de tiempo determinado. Mediante este proceso se determina: qué necesita la organización, cuánto necesita, cuándo lo necesita y los recursos con los que cuenta para adquirirlo. (Mercado, 2018).
+    p Para definir las necesidades de insumos (bienes, servicios y obras) de una organización en un período de tiempo determinado. Mediante este proceso se determina: qué necesita la organización, cuánto necesita, cuándo lo necesita y los recursos con los que cuenta para adquirirlo. (Mercado, 2018).
     p Por eso es necesario para la formulación de plan de compras hacer la toma de los datos históricos de consumo, los cuales sirven como referencia del comportamiento de cada una de las adquisiciones realizadas por la empresa.
     p.mb-5 El plan de compras se elabora teniendo en cuenta los principios de economía, imparcialidad, eficiencia, necesidad y efectividad, con el fin de garantizar el adecuado funcionamiento de la empresa y dentro de los parámetros de cantidad y oportunidad.
 
@@ -275,7 +275,7 @@
       .col-lg-10(data-aos="flip-úp")
         .tarjeta.color-secundario.p-4
           .h4.text-white.mx-5 Lectura obligatoria: Sección tercera. Gestión de las compras
-          p.text-white.mx-5.mb-0 #[strong Libro]: Compras e inventarios
+          p.text-white.mx-5.mb-0 #[strong Libro]: compras e inventarios
           p.text-white.mx-5.mb-0 #[strong Autor]: Claudio Soriano Soriano
           p.text-white.mx-5.mb-0 Ediciones Díaz de Santos, S.A.
           p.text-white.mx-5.mb-0 #[strong Año]: 1995
