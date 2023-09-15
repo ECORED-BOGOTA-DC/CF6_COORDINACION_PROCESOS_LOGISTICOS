@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
       h1 Relacionamiento con proveedores
@@ -72,7 +72,7 @@
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Es importante que los proveedores establezcan estándares que puedan brindar a sus clientes la confianza que necesitan, lo que resultará en productos de mejor calidad comercial a precios más bajos y seguros más bajos.  
 
-    p En otras palabras, la capacidad de elegir proveedores de pago en función de sus propias necesidades estará dispuesta a competir dentro de los parámetros operativos sin permitir restricciones en su actividad.
+    p(data-aos="fade-right") En otras palabras, la capacidad de elegir proveedores de pago en función de sus propias necesidades estará dispuesta a competir dentro de los parámetros operativos sin permitir restricciones en su actividad.
 
 </template>
 

@@ -2,20 +2,20 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Gestionar las compras según requerimientos de la entidad
     
-    p.mb-5 En definitiva, un proceso de compra exitoso permite a una empresa presupuestar, auditar y pensar en todas las decisiones de compra desde el principio de la necesidad, creado para aprovechar al máximo sus recursos, además del ahorro de costos; un proceso de compra eficiente permite a las empresas mejorar las relaciones y la comunicación con los proveedores, realizar evaluaciones de desempeño y operaciones de cumplimiento de contratos, optimizar los riesgos financieros y auditorías de gestión y este ciclo de suministro. Es su responsabilidad como gestor o coordinador logístico hacer que todo sea más eficiente para la empresa.
+    p.mb-5(data-aos="fade-right") En definitiva, un proceso de compra exitoso permite a una empresa presupuestar, auditar y pensar en todas las decisiones de compra desde el principio de la necesidad, creado para aprovechar al máximo sus recursos, además del ahorro de costos; un proceso de compra eficiente permite a las empresas mejorar las relaciones y la comunicación con los proveedores, realizar evaluaciones de desempeño y operaciones de cumplimiento de contratos, optimizar los riesgos financieros y auditorías de gestión y este ciclo de suministro. Es su responsabilidad como gestor o coordinador logístico hacer que todo sea más eficiente para la empresa.
 
     separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.1 Estrategia de compras
     
-    p Para cualquier organización, la compra es una actividad profesional y altamente calificada. Alcanzar los objetivos de una gestión de adquisiciones exitosa requiere habilidades analíticas y racionales; esto da como resultado que la cantidad, calidad, precio, tiempo, lugar y compra de los productos y/o servicios del proveedor sean justos o consistentes con el beneficio máximo de la empresa y es la motivación de los proveedores para seguir haciendo negocios con los clientes.
-    p El diseño adecuado de la estrategia de compras no solo promueve el desempeño de la región, sino que también contribuye a su posición como elemento estratégico en el logro de las metas generales de la organización. La estrategia de compras se puede definir como: Un plan que respalda y alinea las estrategias comerciales generales mediante la optimización del gasto externo, la actividad de compras y otras contribuciones de valor.
-    p.mb-5 Al desarrollar una estrategia de compras, considere los siguientes factores:
+    p(data-aos="fade-right") Para cualquier organización, la compra es una actividad profesional y altamente calificada. Alcanzar los objetivos de una gestión de adquisiciones exitosa requiere habilidades analíticas y racionales; esto da como resultado que la cantidad, calidad, precio, tiempo, lugar y compra de los productos y/o servicios del proveedor sean justos o consistentes con el beneficio máximo de la empresa y es la motivación de los proveedores para seguir haciendo negocios con los clientes.
+    p(data-aos="fade-right") El diseño adecuado de la estrategia de compras no solo promueve el desempeño de la región, sino que también contribuye a su posición como elemento estratégico en el logro de las metas generales de la organización. La estrategia de compras se puede definir como: Un plan que respalda y alinea las estrategias comerciales generales mediante la optimización del gasto externo, la actividad de compras y otras contribuciones de valor.
+    p.mb-5(data-aos="fade-right") Al desarrollar una estrategia de compras, considere los siguientes factores:
 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -90,7 +90,7 @@
                 i.fas.fa-caret-square-right(style="color: #91B3FA;")
                 | Evaluación y adjudicación de contratos.
 
-    p En cada caso, se definen las áreas implicadas y sus respectivas funciones con el objetivo de incrementar la aportación de compras a la cuenta de resultados de la empresa, ¿qué se busca con esto entonces? Se busca:
+    p(data-aos="fade-right") En cada caso, se definen las áreas implicadas y sus respectivas funciones con el objetivo de incrementar la aportación de compras a la cuenta de resultados de la empresa, ¿qué se busca con esto entonces? Se busca:
     ul.lista-ul--color.ms-5.mb-4
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
@@ -101,14 +101,14 @@
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Mejorar los niveles de ahorro en costos.
-    p En definitiva, el plan estratégico de compras define los primeros pasos para transformar compras en una fuente de servicios internos que mejore la competitividad de su empresa.
+    p(data-aos="fade-right") En definitiva, el plan estratégico de compras define los primeros pasos para transformar compras en una fuente de servicios internos que mejore la competitividad de su empresa.
 
     separador
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.2 Generación del pedido - requerimiento
     
-    p Un proceso de compras, consiste en una serie de pasos y etapas que se deben llevar a cabo en una empresa antes de adquirir un producto o servicio necesario para cumplir una meta u objetivo. Se trata de un procedimiento formal que garantiza que los recursos se utilicen de manera transparente, de acuerdo a un presupuesto y un orden establecido.
-    p.mb-5 En la siguiente tabla puede verificar la relación de los diferentes departamentos y el departamento de compras; algunas empresas no cuentan con todos estos departamentos, pero en general se exponen los departamentos para tener en cuenta lo que está haciendo el departamento en su labor misional:
+    p(data-aos="fade-right") Un proceso de compras, consiste en una serie de pasos y etapas que se deben llevar a cabo en una empresa antes de adquirir un producto o servicio necesario para cumplir una meta u objetivo. Se trata de un procedimiento formal que garantiza que los recursos se utilicen de manera transparente, de acuerdo a un presupuesto y un orden establecido.
+    p.mb-5(data-aos="fade-right") En la siguiente tabla puede verificar la relación de los diferentes departamentos y el departamento de compras; algunas empresas no cuentan con todos estos departamentos, pero en general se exponen los departamentos para tener en cuenta lo que está haciendo el departamento en su labor misional:
 
     .row.justify-content-center.mb-5
       .col
@@ -116,7 +116,7 @@
           h5 Tabla 1.
           span Proceso para el requerimiento de un pedido
         .tabla-a.color-primario
-          table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+          table(data-aos="zoom-in"  alt="Tabla que relaciona el proceso para el requerimiento de un pedido.")
             caption Nota. <a style="font-weight: 400">Adaptada de Publishing (2007).</a>
             thead
               tr
@@ -177,8 +177,8 @@
     #t_3_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.3 Adquisición de la orden
     
-    p Una orden de compra (también conocida como pedido de compra, nota de pedido o requisición de compra) es un documento emitido por el comprador para solicitar mercancías al vendedor; en esta se detalla la cantidad a comprar, el tipo de producto, precio y condiciones de pago, y forma de entrega. El vendedor deberá conservar el documento original y el comprador el duplicado.
-    p.mb-5 Es útil para el comprador para saber el tipo y la cantidad del gasto y para el vendedor para poder preparar el pedido y hacer facturas en caso de aceptar el pedido. Cuando el proveedor acepta dicha orden de compra, existe inmediatamente un contrato entre las dos partes y por eso es necesario tener en cuenta que los contenidos y la importancia de la orden se hacen fundamental para la buena gestión de cobranza; por eso se recomiendan los siguientes aspectos a tener en cuenta:
+    p(data-aos="fade-right") Una orden de compra (también conocida como pedido de compra, nota de pedido o requisición de compra) es un documento emitido por el comprador para solicitar mercancías al vendedor; en esta se detalla la cantidad a comprar, el tipo de producto, precio y condiciones de pago, y forma de entrega. El vendedor deberá conservar el documento original y el comprador el duplicado.
+    p.mb-5(data-aos="fade-right") Es útil para el comprador para saber el tipo y la cantidad del gasto y para el vendedor para poder preparar el pedido y hacer facturas en caso de aceptar el pedido. Cuando el proveedor acepta dicha orden de compra, existe inmediatamente un contrato entre las dos partes y por eso es necesario tener en cuenta que los contenidos y la importancia de la orden se hacen fundamental para la buena gestión de cobranza; por eso se recomiendan los siguientes aspectos a tener en cuenta:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Contenido de la orden de compra")
@@ -222,10 +222,10 @@
     #t_3_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.4 Elaboración del plan de compras
     
-    p Un plan de compras es una herramienta que sirve:
-    p Para definir las necesidades de insumos (bienes, servicios y obras) de una organización en un período de tiempo determinado. Mediante este proceso se determina: qué necesita la organización, cuánto necesita, cuándo lo necesita y los recursos con los que cuenta para adquirirlo. (Mercado, 2018).
-    p Por eso es necesario para la formulación de plan de compras hacer la toma de los datos históricos de consumo, los cuales sirven como referencia del comportamiento de cada una de las adquisiciones realizadas por la empresa.
-    p.mb-5 El plan de compras se elabora teniendo en cuenta los principios de economía, imparcialidad, eficiencia, necesidad y efectividad, con el fin de garantizar el adecuado funcionamiento de la empresa y dentro de los parámetros de cantidad y oportunidad.
+    p(data-aos="fade-right") Un plan de compras es una herramienta que sirve:
+    p(data-aos="fade-right") Para definir las necesidades de insumos (bienes, servicios y obras) de una organización en un período de tiempo determinado. Mediante este proceso se determina: qué necesita la organización, cuánto necesita, cuándo lo necesita y los recursos con los que cuenta para adquirirlo. (Mercado, 2018).
+    p(data-aos="fade-right") Por eso es necesario para la formulación de plan de compras hacer la toma de los datos históricos de consumo, los cuales sirven como referencia del comportamiento de cada una de las adquisiciones realizadas por la empresa.
+    p.mb-5(data-aos="fade-right") El plan de compras se elabora teniendo en cuenta los principios de economía, imparcialidad, eficiencia, necesidad y efectividad, con el fin de garantizar el adecuado funcionamiento de la empresa y dentro de los parámetros de cantidad y oportunidad.
 
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Ventajas de hacer un plan de compras: 
 
@@ -287,10 +287,10 @@
     #t_3_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.5 Stock de inventarios de materia prima y suministros
     
-    p El inventario es una fuente de materias primas y el escenario principal es facilitar la continuidad de la producción y satisfacer las necesidades del cliente. En un sistema de fabricación, el inventario actúa como regulador o amortiguador entre el período final de un período y el índice de inicio del período siguiente. 
-    p Se entiende por gestión de inventarios la organización, planificación y gestión de los conjuntos de inventarios propiedad de una organización. 
-    p El inventario, por otro lado, es un conjunto de bienes que mantiene una empresa. Este producto es un producto crudo o terminado listo para ser enviado. En otras palabras, es un producto relacionado con el proceso productivo de la organización. 
-    p.mb-5 Existen diferentes tipos de inventario, según el tipo de demanda que cada negocio necesita para avanzar de manera eficiente. Algunos se clasifican como inventarios de materias primas, trabajos en proceso y productos terminados:
+    p(data-aos="fade-right") El inventario es una fuente de materias primas y el escenario principal es facilitar la continuidad de la producción y satisfacer las necesidades del cliente. En un sistema de fabricación, el inventario actúa como regulador o amortiguador entre el período final de un período y el índice de inicio del período siguiente. 
+    p(data-aos="fade-right") Se entiende por gestión de inventarios la organización, planificación y gestión de los conjuntos de inventarios propiedad de una organización. 
+    p(data-aos="fade-right") El inventario, por otro lado, es un conjunto de bienes que mantiene una empresa. Este producto es un producto crudo o terminado listo para ser enviado. En otras palabras, es un producto relacionado con el proceso productivo de la organización. 
+    p.mb-5(data-aos="fade-right") Existen diferentes tipos de inventario, según el tipo de demanda que cada negocio necesita para avanzar de manera eficiente. Algunos se clasifican como inventarios de materias primas, trabajos en proceso y productos terminados:
 
     .BGIMG01.px-md-5.px-4.mb-5
       .row.justify-content-center
@@ -332,8 +332,8 @@
     #t_3_6.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.6 Reabastecimiento
     
-    p El reabastecimiento se refiere al proceso de mover hábilmente productos y materias primas a través de la cadena de suministro, manteniendo los niveles de inventario adecuados y, en última instancia, trasladarlos al punto de venta. 
-    p Cuando se trata de la gestión de inventarios, es fundamental que las empresas cuenten con procesos claros en la cadena de suministro para satisfacer la demanda y maximizar las ganancias. Por lo tanto, el reabastecimiento es una parte importante de un plan de inventario óptimo y debe tenerse en cuenta:
+    p(data-aos="fade-right") El reabastecimiento se refiere al proceso de mover hábilmente productos y materias primas a través de la cadena de suministro, manteniendo los niveles de inventario adecuados y, en última instancia, trasladarlos al punto de venta. 
+    p(data-aos="fade-right") Cuando se trata de la gestión de inventarios, es fundamental que las empresas cuenten con procesos claros en la cadena de suministro para satisfacer la demanda y maximizar las ganancias. Por lo tanto, el reabastecimiento es una parte importante de un plan de inventario óptimo y debe tenerse en cuenta:
     ul.lista-ul--color.ms-5.mb-4
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
@@ -347,9 +347,9 @@
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Conocimiento de clasificación ordinal. 
-    p.mb-5 Por otro lado, el exceso de inventario puede generar problemas comerciales tales como costos de almacenamiento excesivos, productos desperdiciados o dañados y costos de mano de obra asociados con la gestión de inventario.
+    p.mb-5(data-aos="fade-right") Por otro lado, el exceso de inventario puede generar problemas comerciales tales como costos de almacenamiento excesivos, productos desperdiciados o dañados y costos de mano de obra asociados con la gestión de inventario.
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Factores clave a considerar en el reabastecimiento 
-    p.mb-5 Los tres principales factores que las empresas deben tener en cuenta en la planificación de reabastecimiento son:
+    p.mb-5(data-aos="fade-right") Los tres principales factores que las empresas deben tener en cuenta en la planificación de reabastecimiento son:
 
     .BGM05.px-md-5.px-4.mb-5
       .row.justify-content-center

@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Gestión de compras
     
-    p.mb-5 Las compras son más que relacionar insumos con dinero, esto es lo que más se confunde dentro de los departamentos de compras, como se puede ver en el siguiente recurso:
+    p.mb-5(data-aos="fade-right") Las compras son más que relacionar insumos con dinero, esto es lo que más se confunde dentro de los departamentos de compras, como se puede ver en el siguiente recurso:
 
     .BGR02.p-4.mb-5(data-aos="zoom-in")
       SlyderA.mt-4(tipo="b")
@@ -36,7 +36,7 @@
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img04.svg' alt="Imagen decorativa")
 
-    p.mb-5 Un proceso de compras eficiente es esencial para el éxito de cualquier intermediario. Las tendencias actuales en la gestión de compras son:
+    p.mb-5(data-aos="fade-right") Un proceso de compras eficiente es esencial para el éxito de cualquier intermediario. Las tendencias actuales en la gestión de compras son:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -65,8 +65,8 @@
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.1 Funciones de la gestión de compras
 
-    p La compra es un elemento estratégico, no una actividad más de la empresa, su objetivo es asegurar a los mejores proveedores con los mejores productos y servicios al mejor valor total. Dicho esto, la gestión de compras tiene por objetivo adquirir los bienes y servicios que la empresa necesita, garantizando el abastecimiento de las cantidades requeridas en términos de tiempo, calidad y precio.
-    p.mb-5 Las funciones que cumple la gestión de compras son fundamentalmente: 
+    p(data-aos="fade-right") La compra es un elemento estratégico, no una actividad más de la empresa, su objetivo es asegurar a los mejores proveedores con los mejores productos y servicios al mejor valor total. Dicho esto, la gestión de compras tiene por objetivo adquirir los bienes y servicios que la empresa necesita, garantizando el abastecimiento de las cantidades requeridas en términos de tiempo, calidad y precio.
+    p.mb-5(data-aos="fade-right") Las funciones que cumple la gestión de compras son fundamentalmente: 
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Función adquisición")
@@ -83,7 +83,7 @@
     #t_2_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.2 Gestión de proveedores
     
-    p.mb-5 Apoyados en el concepto de Sangri (2016), se puede decir que la gestión de proveedores es un proceso de varios pasos mediante el cual los compradores inician y desarrollan relaciones con los proveedores de bienes y servicios necesarios para sus operaciones y misiones diarias. Los primeros pasos para gestionar una relación con un proveedor desde la perspectiva del comprador son:
+    p.mb-5(data-aos="fade-right") Apoyados en el concepto de Sangri (2016), se puede decir que la gestión de proveedores es un proceso de varios pasos mediante el cual los compradores inician y desarrollan relaciones con los proveedores de bienes y servicios necesarios para sus operaciones y misiones diarias. Los primeros pasos para gestionar una relación con un proveedor desde la perspectiva del comprador son:
 
     ImagenInfografica.color-primario.circle-white.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
@@ -107,7 +107,7 @@
     #t_2_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.3 Acuerdos y alianzas comerciales con proveedores
     
-    p.mb-5 Cada vez son más comunes las relaciones de confianza comercial entre los proveedores y los clientes a las que se les llama acuerdos, como se refiere en el siguiente recurso:
+    p.mb-5(data-aos="fade-right") Cada vez son más comunes las relaciones de confianza comercial entre los proveedores y los clientes a las que se les llama acuerdos, como se refiere en el siguiente recurso:
 
     TabsC.color-acento-botones.mb-5(data-aos="zoom-in")
       .p-md-4.p-3(titulo="Acuerdo cliente y proveedor")
@@ -148,7 +148,7 @@
           .col-lg-6
             p.mt-5.mb-0 Las capacidades de la empresa son consideradas para brindar apoyo a los proveedores en la mejora de productos y procesos, estos serían los motivos desencadenantes de la alianza, la cual permite a su vez mejorar la productividad a corto plazo (reducción de inventarios, productos defectuosos, etc.), así como conseguir beneficios estratégicos o ventajas competitivas a más largo plazo (aumento de la cuota de mercado, mayor velocidad en el desarrollo de nuevos productos, mejoras en la calidad, en la estructura de costes, etc.). Quizás una de las mayores ventajas sea el acceso a la tecnología del socio, ya que la alianza permite a una empresa tener un proveedor tecnológicamente avanzado que le puede ayudar en el desarrollo de sus productos.
 
-    p.mb-5 Entre el proveedor y el cliente se inician los acercamientos y se hacen varias visitas de manera secuencial para finalmente llegar a ser aliados estratégicos, así:
+    p.mb-5(data-aos="fade-right") Entre el proveedor y el cliente se inician los acercamientos y se hacen varias visitas de manera secuencial para finalmente llegar a ser aliados estratégicos, así:
 
     .row.mb-5(data-aos="fade-right")
       .col-lg-10
@@ -164,7 +164,7 @@
     #t_2_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.4 Costos de comprar
     
-    p.mb-5 Ninguna actividad que se realiza en las organizaciones es gratuita, en el trabajo logístico los costos logísticos están dispersos en varias actividades, lo cual dificulta su adecuada identificación y análisis; sin embargo, se propone trabajar en los siguientes costos como básicos:
+    p.mb-5(data-aos="fade-right") Ninguna actividad que se realiza en las organizaciones es gratuita, en el trabajo logístico los costos logísticos están dispersos en varias actividades, lo cual dificulta su adecuada identificación y análisis; sin embargo, se propone trabajar en los siguientes costos como básicos:
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-9
@@ -189,7 +189,7 @@
     #t_2_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 2.5 Gestión de compras y su relación con otros procesos logísticos
     
-    p.mb-5 La definición del proceso de gestión de compras incluye la labor logística, no se puede decir que sea un error esa afirmación, pero sobre el papel organizativo y funcional de las empresas, se trata de dos segmentos diferenciados por sus tareas y posición en la cadena de suministro; así pues, se puede definir que:
+    p.mb-5(data-aos="fade-right") La definición del proceso de gestión de compras incluye la labor logística, no se puede decir que sea un error esa afirmación, pero sobre el papel organizativo y funcional de las empresas, se trata de dos segmentos diferenciados por sus tareas y posición en la cadena de suministro; así pues, se puede definir que:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -204,7 +204,7 @@
                 td(style="border: 3px solid #AFAFAF; padding: 2.5em") Es la negociación y adquisición de bienes o servicios para una empresa, mediante el desarrollo de una metodología y estrategia capaz de administrar y gestionar todos los elementos que forman parte de este proceso (negociación de precios, financiamiento de las compras, control de inventario etc.).
                 td(style="border: 3px solid #AFAFAF; padding: 2.5em") La gestión logística planifica, implementa y controla el flujo de almacenamiento desde su lugar de origen hasta el punto de consumo. En otras palabras, más sencillas, se encarga de organizar el proceso de envío y entrega física de las compras realizadas.
 
-    p En cuanto a la posición en la cadena de suministro, la labor del gestor de compras se incluye en la primera mitad de esta cadena de suministro, la otra mitad integra la funcionalidad y las tareas propias del área de logística. Cuando la empresa puede acceder y hacer las compras de productos y servicios efectuadas en tiempo y forma deseada, se habla de una correcta gestión de compras y logística.
+    p(data-aos="fade-right") En cuanto a la posición en la cadena de suministro, la labor del gestor de compras se incluye en la primera mitad de esta cadena de suministro, la otra mitad integra la funcionalidad y las tareas propias del área de logística. Cuando la empresa puede acceder y hacer las compras de productos y servicios efectuadas en tiempo y forma deseada, se habla de una correcta gestión de compras y logística.
 
 </template>
 

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Compras conceptos generales
@@ -18,7 +18,7 @@
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.1 Sistemas Integral de Compras
 
-    p.mb-5 El proceso de decisión de compra comienza con una clara definición e identificación de las necesidades de una empresa y conduce a un contexto general en el que se toman las decisiones, dentro del cual se trabajan alternativas posteriores. A toda esa referencia se le llama SIC (Sistema Integral de Compras) y se puede revisar a continuación con el paso a paso:
+    p.mb-5(data-aos="fade-right") El proceso de decisión de compra comienza con una clara definición e identificación de las necesidades de una empresa y conduce a un contexto general en el que se toman las decisiones, dentro del cual se trabajan alternativas posteriores. A toda esa referencia se le llama SIC (Sistema Integral de Compras) y se puede revisar a continuación con el paso a paso:
 
     PasosA.color-primario.mb-5(tipo="n")
       .row.justify-content-center
@@ -62,8 +62,8 @@
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.2 Políticas
     
-    p Una política de compras es un plan o base que ayuda a la toma de una decisión, son directrices para establecer criterios de abastecimiento, requisitos de todo tipo, trabajo con proveedores, condiciones de envío, condiciones de pago, precompra y otros aspectos básicos en el funcionamiento de cada empresa. En conjunto, estas políticas de compras forman parte del plan de compras y de cómo las empresas obtienen todos los productos y servicios que necesitan para operar productos de limpieza, herramientas, maquinaria, tecnología, equipos, materias primas, etc.
-    p.mb-5 Las políticas de compras deben contemplar preferiblemente los siguientes aspectos:
+    p(data-aos="fade-right") Una política de compras es un plan o base que ayuda a la toma de una decisión, son directrices para establecer criterios de abastecimiento, requisitos de todo tipo, trabajo con proveedores, condiciones de envío, condiciones de pago, precompra y otros aspectos básicos en el funcionamiento de cada empresa. En conjunto, estas políticas de compras forman parte del plan de compras y de cómo las empresas obtienen todos los productos y servicios que necesitan para operar productos de limpieza, herramientas, maquinaria, tecnología, equipos, materias primas, etc.
+    p.mb-5(data-aos="fade-right") Las políticas de compras deben contemplar preferiblemente los siguientes aspectos:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Fuentes de abastecimiento")
@@ -104,7 +104,7 @@
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.3 Función de las compras en los procesos logísticos
     
-    p.mb-5 La definición más racional de una propuesta es la cantidad de bienes o servicios que vende el vendedor. Estos bienes y servicios pueden ser cualquier cosa que se les ocurra. Para seguir siendo competitivos y obtener ingresos satisfactorios en el mercado, es necesario administrar materias primas y productos a precios bajos que permitan requisitos de calidad y servicio. Para este trabajo se requieren unos objetivos que hacen de este proceso un proceso de gran importancia, como se puede ver a continuación:
+    p.mb-5(data-aos="fade-right") La definición más racional de una propuesta es la cantidad de bienes o servicios que vende el vendedor. Estos bienes y servicios pueden ser cualquier cosa que se les ocurra. Para seguir siendo competitivos y obtener ingresos satisfactorios en el mercado, es necesario administrar materias primas y productos a precios bajos que permitan requisitos de calidad y servicio. Para este trabajo se requieren unos objetivos que hacen de este proceso un proceso de gran importancia, como se puede ver a continuación:
 
     
     .row.justify-content-center.mb-5
@@ -161,7 +161,7 @@
     #t_1_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.4 Selección de proveedores
     
-    p.mb-5 Se entiende como proveedor a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de trabajo o actividad económica, esperando un beneficio a cambio que puede ser económico o en especie. Esta cláusula puede aplicarse tanto a los bienes o servicios destinados a ser procesados y vendidos, como a las materias primas para su posterior modificación en elementos de producción.
+    p.mb-5(data-aos="fade-right") Se entiende como proveedor a aquella persona física o jurídica que provee o suministra profesionalmente de un determinado bien o servicio a otros individuos o sociedades, como forma de trabajo o actividad económica, esperando un beneficio a cambio que puede ser económico o en especie. Esta cláusula puede aplicarse tanto a los bienes o servicios destinados a ser procesados y vendidos, como a las materias primas para su posterior modificación en elementos de producción.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -173,7 +173,7 @@
             p.mb-0 En las empresas, el departamento de compras suele ser responsable de seleccionar diferentes proveedores junto con su tratamiento. Se entiende que todo departamento de compras debe ser transparente a los ojos de la selección de sus proveedores y de esa forma evitar las opciones de corrupción que se presentan en dado caso que algunos oferentes o proveedores quieran pasar por sobre los procesos con preventas. 
 
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Criterios para seleccionar al proveedor
-    p.mb-5 Kottler, P. &amp; Keller, K. (2016) definen la segmentación de proveedores como “el proceso de dividir a un proveedor en grupos con diferentes necesidades, características o comportamientos” construyendo relaciones para crear valor agregado. Para seleccionar correctamente un proveedor de servicios, se deben considerar varios elementos como, por ejemplo:
+    p.mb-5(data-aos="fade-right") Kottler, P. &amp; Keller, K. (2016) definen la segmentación de proveedores como “el proceso de dividir a un proveedor en grupos con diferentes necesidades, características o comportamientos” construyendo relaciones para crear valor agregado. Para seleccionar correctamente un proveedor de servicios, se deben considerar varios elementos como, por ejemplo:
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-8
@@ -181,9 +181,9 @@
           h5 Figura 1.
           span Características para seleccionar correctamente un proveedor
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img09.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img09.svg' alt="Esquema que menciona las características para la selección de proveedores, las cuales son:<br>Entrega oportuna<br>Excelente servicio<br>El mejor precio<br>Garantía de devolución<br>Calidad de los productos")
     
-    p.mb-5 A continuación se relacionan los aspectos más importantes que se debe tener en cuenta para esta importante labor en la vida de una empresa:
+    p.mb-5(data-aos="fade-right") A continuación se relacionan los aspectos más importantes que se debe tener en cuenta para esta importante labor en la vida de una empresa:
     .row.justify-content-center.mb-4
       .col-lg-5.col-sm-10(data-aos="fade-right")
         a.anexo.mb-4(:href="obtenerLink('/downloads/Tabla_Selección_de_Proveedores-ANEXO.pdf')" target="_blank")
@@ -196,7 +196,7 @@
     #t_1_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.5 Negociación con proveedores
     
-    p.mb-5 Según Montoya (2010) hay “muchos aspectos y consideraciones al momento de elegir uno o más proveedores. La elección no depende de una sola variable, sino únicamente de la combinación para lograr estos conjuntos para brindar una buena relación comercial específica y oportuna”, por eso se requiere un listado de criterios. Entre los principales criterios a negociar se pueden tener en cuenta:
+    p.mb-5(data-aos="fade-right") Según Montoya (2010) hay “muchos aspectos y consideraciones al momento de elegir uno o más proveedores. La elección no depende de una sola variable, sino únicamente de la combinación para lograr estos conjuntos para brindar una buena relación comercial específica y oportuna”, por eso se requiere un listado de criterios. Entre los principales criterios a negociar se pueden tener en cuenta:
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-md-6
@@ -286,7 +286,7 @@
             | La naturaleza del proveedor (fabricante, representación, agente, distribuidor).
         hr(style="margin-top: 1em; margin-bottom: 1em")
 
-    p.mb-5 Los nuevos proveedores que buscan registrar proveedores existentes en el mercado a menudo utilizan esto como su estrategia principal para ofrecer precios más bajos y condiciones de pago especiales, pero no se identifica ningún comprador. Hay que tener mucho cuidado si las condiciones son más atractivas que las normales. Los compradores experimentados encuentran estas dos variables (precio y condiciones) muy importantes para hacer una buena compra, mientras que otros factores se mencionan como importantes y deben ser considerados al momento de tomar una decisión.
+    p.mb-5(data-aos="fade-right") Los nuevos proveedores que buscan registrar proveedores existentes en el mercado a menudo utilizan esto como su estrategia principal para ofrecer precios más bajos y condiciones de pago especiales, pero no se identifica ningún comprador. Hay que tener mucho cuidado si las condiciones son más atractivas que las normales. Los compradores experimentados encuentran estas dos variables (precio y condiciones) muy importantes para hacer una buena compra, mientras que otros factores se mencionan como importantes y deben ser considerados al momento de tomar una decisión.
 
     .row.justify-content-center.mb-5
       .col-lg-9
@@ -301,9 +301,9 @@
     #t_1_6.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.6 Alianzas estratégicas
     
-    p Se trata de un acuerdo formal entre dos o más empresas para lograr un conjunto de intereses privados y comunes basados en el intercambio de recursos con resultados inciertos. 
-    p Este es un plan de acción estratégico que define cómo utilizar estos recursos para obtener una mayor ventaja competitiva en los mercados desarrollados. 
-    p.mb-5 Las alianzas estratégicas son un método que cada vez utilizan más empresas para compartir recursos abundantes y crecientes en una empresa y recursos escasos en otra. Se ha establecido tanto financiera como personalmente, a nivel nacional e internacional en los campos de comercio, ingeniería, tecnología, fondos, inversiones, reputación y sistemas de distribución. Basados en lo que relaciona Ariño (2007), se debe analizar la posibilidad de una alianza estratégica al: 
+    p(data-aos="fade-right") Se trata de un acuerdo formal entre dos o más empresas para lograr un conjunto de intereses privados y comunes basados en el intercambio de recursos con resultados inciertos. 
+    p(data-aos="fade-right") Este es un plan de acción estratégico que define cómo utilizar estos recursos para obtener una mayor ventaja competitiva en los mercados desarrollados. 
+    p.mb-5(data-aos="fade-right") Las alianzas estratégicas son un método que cada vez utilizan más empresas para compartir recursos abundantes y crecientes en una empresa y recursos escasos en otra. Se ha establecido tanto financiera como personalmente, a nivel nacional e internacional en los campos de comercio, ingeniería, tecnología, fondos, inversiones, reputación y sistemas de distribución. Basados en lo que relaciona Ariño (2007), se debe analizar la posibilidad de una alianza estratégica al: 
     
     .row.mb-5
       .col-1.d-lg-flex.d-none
