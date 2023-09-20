@@ -8,7 +8,7 @@
       h1 Promesa de servicio
     
     p(data-aos="fade-right") El servicio al cliente y la logística están íntimamente conectados. Por un lado, puede aprender sobre el servicio al cliente como medidas para proporcionar un producto o servicio específico; del mismo modo, si está hablando de logística, se referirá cada una de estas acciones para proporcionar el producto o servicio al cliente en las condiciones requeridas. 
-    p.mb-5(data-aos="fade-right") El servicio al cliente y la logística, incluida una oferta de negocios, es tan importante como el producto en sí mismo o el servicio en sí. Recuerde que es inutilizable tener un producto excelente si no llega al cliente en las mejores condiciones (especialmente en relación con el lugar, el informe solicitado de tiempo y las condiciones óptimas). Por lo tanto, el servicio al cliente y la logística de comandos son un aspecto que es tan importante como el producto o el servicio en sí, porque es el que permite que la distribución se realice correcta y satisfactoriamente.
+    p(data-aos="fade-right") El servicio al cliente y la logística, incluida una oferta de negocios, es tan importante como el producto en sí mismo o el servicio en sí. Recuerde que es inutilizable tener un producto excelente si no llega al cliente en las mejores condiciones (especialmente en relación con el lugar, el informe solicitado de tiempo y las condiciones óptimas). Por lo tanto, el servicio al cliente y la logística de comandos son un aspecto que es tan importante como el producto o el servicio en sí, porque es el que permite que la distribución se realice correcta y satisfactoriamente.
 
     separador
     #t_5_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -17,7 +17,7 @@
     p(data-aos="fade-right") La promesa de servicio al cliente se ha denominado como un proceso de satisfacción total, el cual puede describirse simplemente como “el proceso integral de cumplir con el pedido de un cliente”. Está inmersa la logística cuando se efectúa una compra y entra en juego la necesidad comercial.
     p.mb-5(data-aos="fade-right") Por lo anterior, al hablar de la promesa de servicio al cliente y logística se suelen distinguir las siguientes fases:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
+    AcordionA.mb-4(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Aprovisionamiento y gestión de inventario")
         p.mb-0 En esta fase es donde la empresa logística es responsable de recibir las acciones necesarias para cumplir la demanda de solicitud de pedidos realizados.  Es decir, es estable siempre que pueda poner las necesidades de los clientes primero. Esto significa que, además de la oferta de inventario, la compañía debe conocer de manera específica la posición exacta de cada producto.
       div(titulo="Almacenamiento")

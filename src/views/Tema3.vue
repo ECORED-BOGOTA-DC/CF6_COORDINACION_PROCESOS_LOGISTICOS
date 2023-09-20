@@ -7,7 +7,7 @@
         span 3
       h1 Gestionar las compras según requerimientos de la entidad
     
-    p.mb-5(data-aos="fade-right") En definitiva, un proceso de compra exitoso permite a una empresa presupuestar, auditar y pensar en todas las decisiones de compra desde el principio de la necesidad, creado para aprovechar al máximo sus recursos, además del ahorro de costos; un proceso de compra eficiente permite a las empresas mejorar las relaciones y la comunicación con los proveedores, realizar evaluaciones de desempeño y operaciones de cumplimiento de contratos, optimizar los riesgos financieros y auditorías de gestión y este ciclo de suministro. Es su responsabilidad como gestor o coordinador logístico hacer que todo sea más eficiente para la empresa.
+    p(data-aos="fade-right") En definitiva, un proceso de compra exitoso permite a una empresa presupuestar, auditar y pensar en todas las decisiones de compra desde el principio de la necesidad, creado para aprovechar al máximo sus recursos, además del ahorro de costos; un proceso de compra eficiente permite a las empresas mejorar las relaciones y la comunicación con los proveedores, realizar evaluaciones de desempeño y operaciones de cumplimiento de contratos, optimizar los riesgos financieros y auditorías de gestión y este ciclo de suministro. Es su responsabilidad como gestor o coordinador logístico hacer que todo sea más eficiente para la empresa.
 
     separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -110,7 +110,7 @@
     p(data-aos="fade-right") Un proceso de compras, consiste en una serie de pasos y etapas que se deben llevar a cabo en una empresa antes de adquirir un producto o servicio necesario para cumplir una meta u objetivo. Se trata de un procedimiento formal que garantiza que los recursos se utilicen de manera transparente, de acuerdo a un presupuesto y un orden establecido.
     p.mb-5(data-aos="fade-right") En la siguiente tabla puede verificar la relación de los diferentes departamentos y el departamento de compras; algunas empresas no cuentan con todos estos departamentos, pero en general se exponen los departamentos para tener en cuenta lo que está haciendo el departamento en su labor misional:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Tabla 1.
@@ -180,7 +180,7 @@
     p(data-aos="fade-right") Una orden de compra (también conocida como pedido de compra, nota de pedido o requisición de compra) es un documento emitido por el comprador para solicitar mercancías al vendedor; en esta se detalla la cantidad a comprar, el tipo de producto, precio y condiciones de pago, y forma de entrega. El vendedor deberá conservar el documento original y el comprador el duplicado.
     p.mb-5(data-aos="fade-right") Es útil para el comprador para saber el tipo y la cantidad del gasto y para el vendedor para poder preparar el pedido y hacer facturas en caso de aceptar el pedido. Cuando el proveedor acepta dicha orden de compra, existe inmediatamente un contrato entre las dos partes y por eso es necesario tener en cuenta que los contenidos y la importancia de la orden se hacen fundamental para la buena gestión de cobranza; por eso se recomiendan los siguientes aspectos a tener en cuenta:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
+    AcordionA.mb-4(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Contenido de la orden de compra")
         p Las diferentes partes de la orden de compra se detallan a continuación:
         ul.lista-ul--color.ms-5
@@ -229,8 +229,8 @@
 
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Ventajas de hacer un plan de compras: 
 
-    .row.justify-content-center.mb-5
-      .col-lg-10.mb-5
+    .row.justify-content-center.mb-4
+      .col-lg-10
         ol.lista-ol--cuadro.lista-ol--separador
           li(style="display: flex" data-aos="fade-right")
             .lista-ol--cuadro__vineta
@@ -272,17 +272,7 @@
             .lista-ol--cuadro__vineta
               span.text-bold 10
             | Controlar y trasparentar los gastos.
-      .col-lg-10(data-aos="flip-úp")
-        .tarjeta.color-secundario.p-4
-          .h4.text-white.mx-5 Lectura obligatoria: Sección tercera. Gestión de las compras
-          p.text-white.mx-5.mb-0 #[strong Libro]: compras e inventarios
-          p.text-white.mx-5.mb-0 #[strong Autor]: Claudio Soriano Soriano
-          p.text-white.mx-5.mb-0 Ediciones Díaz de Santos, S.A.
-          p.text-white.mx-5.mb-0 #[strong Año]: 1995
-          p.text-white.mx-5 #[strong Paginación]: de la página 74 del libro a la página 109 (revise por favor la marca de la página que trae el archivo PDF).
-          p.text-white.mx-5 #[strong En dónde]: <a href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/52926?page=74" target="_blank" style="color: #FE7062 !important">elibro-net.bdigital.sena.edu.co</a>
-          p.text-white.mx-5.mb-0 #[strong ¿Cómo ingreso?] En los datos de ingreso debe colocar su documento de identidad sin puntos en el espacio del usuario y la misma en la contraseña.
-
+      
     separador
     #t_3_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 3.5 Stock de inventarios de materia prima y suministros
@@ -292,7 +282,7 @@
     p(data-aos="fade-right") El inventario, por otro lado, es un conjunto de bienes que mantiene una empresa. Este producto es un producto crudo o terminado listo para ser enviado. En otras palabras, es un producto relacionado con el proceso productivo de la organización. 
     p.mb-5(data-aos="fade-right") Existen diferentes tipos de inventario, según el tipo de demanda que cada negocio necesita para avanzar de manera eficiente. Algunos se clasifican como inventarios de materias primas, trabajos en proceso y productos terminados:
 
-    .BGIMG01.px-md-5.px-4.mb-5
+    .BGIMG01.px-md-5.px-4.mb-4
       .row.justify-content-center
         .col-xxl-3.col-lg-4.col-md-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
           .tarjetas-up(@mouseover="mostrarIndicador = false")

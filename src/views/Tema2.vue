@@ -9,7 +9,7 @@
     
     p.mb-5(data-aos="fade-right") Las compras son más que relacionar insumos con dinero, esto es lo que más se confunde dentro de los departamentos de compras, como se puede ver en el siguiente recurso:
 
-    .BGR02.p-4.mb-5(data-aos="zoom-in")
+    .BGR02.p-4.mb-4(data-aos="zoom-in")
       SlyderA.mt-4(tipo="b")
         .row.justify-content-center
           .col-lg-4.order-lg-1.order-2
@@ -68,7 +68,7 @@
     p(data-aos="fade-right") La compra es un elemento estratégico, no una actividad más de la empresa, su objetivo es asegurar a los mejores proveedores con los mejores productos y servicios al mejor valor total. Dicho esto, la gestión de compras tiene por objetivo adquirir los bienes y servicios que la empresa necesita, garantizando el abastecimiento de las cantidades requeridas en términos de tiempo, calidad y precio.
     p.mb-5(data-aos="fade-right") Las funciones que cumple la gestión de compras son fundamentalmente: 
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
+    AcordionA.mb-4(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Función adquisición")
         p.mb-0 Esta primera función se refiere a comprar materias primas y proveedores; datos indirectos; accesorio; máquinas, equipos, herramientas, muebles, etc.; papelería; servicios (por ejemplo, fletes) necesarios para otras actividades comerciales.
       div(titulo="Función apoyo a las operaciones bidireccional")
@@ -85,7 +85,7 @@
     
     p.mb-5(data-aos="fade-right") Apoyados en el concepto de Sangri (2016), se puede decir que la gestión de proveedores es un proceso de varios pasos mediante el cual los compradores inician y desarrollan relaciones con los proveedores de bienes y servicios necesarios para sus operaciones y misiones diarias. Los primeros pasos para gestionar una relación con un proveedor desde la perspectiva del comprador son:
 
-    ImagenInfografica.color-primario.circle-white.mb-5(data-aos="zoom-in")
+    ImagenInfografica.color-primario.circle-white.mb-4(data-aos="zoom-in")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2/img05.svg')
@@ -150,7 +150,7 @@
 
     p.mb-5(data-aos="fade-right") Entre el proveedor y el cliente se inician los acercamientos y se hacen varias visitas de manera secuencial para finalmente llegar a ser aliados estratégicos, así:
 
-    .row.mb-5(data-aos="fade-right")
+    .row.mb-4(data-aos="fade-right")
       .col-lg-10
         TabsA.color-acento-botones
           .tarjeta.BG04.p-4(titulo="Acuerdo de expectativas")
@@ -166,7 +166,7 @@
     
     p.mb-5(data-aos="fade-right") Ninguna actividad que se realiza en las organizaciones es gratuita, en el trabajo logístico los costos logísticos están dispersos en varias actividades, lo cual dificulta su adecuada identificación y análisis; sin embargo, se propone trabajar en los siguientes costos como básicos:
 
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-9
         ImagenInfografica.color-acento-contenido
           template(v-slot:imagen)

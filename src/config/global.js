@@ -354,11 +354,6 @@ export default {
       referencia:
         'Sangri C., A. (2016). <em>Administración de compras: adquisiciones y abastecimiento</em>. Grupo Editorial Patria.',
     },
-    {
-      referencia: 'Soriano, C. (1995). <em>Compras inventarios</em>.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/52926?page=74',
-    },
   ],
   creditos: [
     {

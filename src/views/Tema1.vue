@@ -20,7 +20,7 @@
 
     p.mb-5(data-aos="fade-right") El proceso de decisión de compra comienza con una clara definición e identificación de las necesidades de una empresa y conduce a un contexto general en el que se toman las decisiones, dentro del cual se trabajan alternativas posteriores. A toda esa referencia se le llama SIC (Sistema Integral de Compras) y se puede revisar a continuación con el paso a paso:
 
-    PasosA.color-primario.mb-5(tipo="n")
+    PasosA.color-primario.mb-4(tipo="n")
       .row.justify-content-center
         .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
           .h4 Reconocimiento de la necesidad
@@ -65,7 +65,7 @@
     p(data-aos="fade-right") Una política de compras es un plan o base que ayuda a la toma de una decisión, son directrices para establecer criterios de abastecimiento, requisitos de todo tipo, trabajo con proveedores, condiciones de envío, condiciones de pago, precompra y otros aspectos básicos en el funcionamiento de cada empresa. En conjunto, estas políticas de compras forman parte del plan de compras y de cómo las empresas obtienen todos los productos y servicios que necesitan para operar productos de limpieza, herramientas, maquinaria, tecnología, equipos, materias primas, etc.
     p.mb-5(data-aos="fade-right") Las políticas de compras deben contemplar preferiblemente los siguientes aspectos:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
+    AcordionA.mb-4(tipo="a" clase-tarjeta="tarjeta BG01" data-aos="fade-right")
       div(titulo="Fuentes de abastecimiento")
         p Solicitar materiales de acuerdo con los requisitos de la empresa y dejar por escrito las condiciones en las que existe o debe existir competencia entre proveedores. Debe considerarse una mejor práctica de igualdad de oportunidades en el proceso de compra.
         p.mb-0 También especifica los requisitos que deben cumplir los proveedores, como solidez y solvencia financiera. Identifica la ubicación de la fuente y las acciones que la empresa debe tomar para asegurar un flujo continuo de material.
@@ -107,7 +107,7 @@
     p.mb-5(data-aos="fade-right") La definición más racional de una propuesta es la cantidad de bienes o servicios que vende el vendedor. Estos bienes y servicios pueden ser cualquier cosa que se les ocurra. Para seguir siendo competitivos y obtener ingresos satisfactorios en el mercado, es necesario administrar materias primas y productos a precios bajos que permitan requisitos de calidad y servicio. Para este trabajo se requieren unos objetivos que hacen de este proceso un proceso de gran importancia, como se puede ver a continuación:
 
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-10.mb-5
         .bloque-texto-a.color-secundario.p-md-5.p-4
           .row.m-0.align-items-center.justify-content-between
@@ -288,7 +288,7 @@
 
     p.mb-5(data-aos="fade-right") Los nuevos proveedores que buscan registrar proveedores existentes en el mercado a menudo utilizan esto como su estrategia principal para ofrecer precios más bajos y condiciones de pago especiales, pero no se identifica ningún comprador. Hay que tener mucho cuidado si las condiciones son más atractivas que las normales. Los compradores experimentados encuentran estas dos variables (precio y condiciones) muy importantes para hacer una buena compra, mientras que otros factores se mencionan como importantes y deben ser considerados al momento de tomar una decisión.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-9
         .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
