@@ -16,7 +16,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.1 Sistemas Integral de Compras
+      h2 1.1 Sistemas integrales de compras
 
     p.mb-5(data-aos="fade-right") El proceso de decisión de compra comienza con una clara definición e identificación de las necesidades de una empresa y conduce a un contexto general en el que se toman las decisiones, dentro del cual se trabajan alternativas posteriores. A toda esa referencia se le llama SIC (Sistema Integral de Compras) y se puede revisar a continuación con el paso a paso:
 
@@ -236,7 +236,7 @@
           li(style="display: flex" data-aos="fade-right")
             .lista-ol--cuadro__vineta 
               span.text-bold i
-            | La puntualidad en la entrega
+            | La puntualidad en la entrega.
           li(style="display: flex" data-aos="fade-right")
             .lista-ol--cuadro__vineta 
               span.text-bold j

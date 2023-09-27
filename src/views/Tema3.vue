@@ -74,7 +74,7 @@
                 | Desarrollo y capacitación del equipo.
               li(style="margin-bottom: 2px; display: flex")
                 i.fas.fa-caret-square-right(style="color: #91B3FA;")
-                | Outsorcing proceso de compras.
+                p.mb-0 <em>Outsorcing </em>proceso de compras.
           .BGR03C.p-3(x="91%" y="92%" numero="4")
             ul.lista-ul--color
               li(style="margin-bottom: 2px; display: flex")
@@ -94,7 +94,7 @@
     ul.lista-ul--color.ms-5.mb-4
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-        | Mejorar el nivel de competitividad de la compañía
+        | Mejorar el nivel de competitividad de la compañía.
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Establecer una relación óptima con los usuarios y proveedores estratégicos.
@@ -134,7 +134,7 @@
                 td(style="border: 3px solid #E8E8E8;") Determinación de las materias primas, materiales, formas, elementos, productos terminados necesarios para abastecer la demanda final.
               tr
                 td(style="border: 3px solid #E8E8E8;").text-center Compras y abastecimiento
-                td(style="border: 3px solid #E8E8E8;").text-center Análisis de stocks disponibles en la empresa
+                td(style="border: 3px solid #E8E8E8;").text-center Análisis de <i>stocks</i> disponibles en la empresa
                 td(style="border: 3px solid #E8E8E8;") De las materias primas, materiales, etcétera, que necesitaremos para abastecer la demanda, ¿qué cantidad tenemos en la empresa?
               tr
                 td(style="border: 3px solid #E8E8E8;").text-center Compras y abastecimiento
@@ -255,7 +255,7 @@
           li(style="display: flex" data-aos="fade-right")
             .lista-ol--cuadro__vineta
               span.text-bold 6
-            p.mb-0 #[strong Menores costos de inventario]. Un adecuado plan será posible definir pedidos con un tamaño y con una frecuencia que permita disminuir los stocks y sus costos asociados.
+            p.mb-0 #[strong Menores costos de inventario]. Un adecuado plan será posible definir pedidos con un tamaño y con una frecuencia que permita disminuir los <i>stocks</i> y sus costos asociados.
           li(style="display: flex" data-aos="fade-right")
             .lista-ol--cuadro__vineta
               span.text-bold 7
@@ -275,7 +275,7 @@
       
     separador
     #t_3_5.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 3.5 Stock de inventarios de materia prima y suministros
+      h2 3.5 <i>Stock</i> de inventarios de materia prima y suministros
     
     p(data-aos="fade-right") El inventario es una fuente de materias primas y el escenario principal es facilitar la continuidad de la producción y satisfacer las necesidades del cliente. En un sistema de fabricación, el inventario actúa como regulador o amortiguador entre el período final de un período y el índice de inicio del período siguiente. 
     p(data-aos="fade-right") Se entiende por gestión de inventarios la organización, planificación y gestión de los conjuntos de inventarios propiedad de una organización. 

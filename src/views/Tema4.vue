@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/img01.svg')})`}" alt="Imagen decorativa" data-aos="fade-left"
           )
           .bloque-texto-g__texto.p-4(data-aos="fade-right")
-            p.mb-0 Las relaciones en una empresa cada vez son de mayor cuidado, inclusive se habla de marketing relacional, relaciones intraempresariales, interempresariales y los proveedores no se quedan por fuera; ya que una buena relación empresa-proveedor debe buscar lo mejor para todas las partes interesadas siempre buscando una convivencia de ganar-ganar. Para cada empresa lo mejor es poder buscar todos o la mayor parte de los siguientes ítems:
+            p.mb-0 Las relaciones en una empresa cada vez son de mayor cuidado, inclusive se habla de <i>marketing</i> relacional, relaciones intraempresariales, interempresariales y los proveedores no se quedan por fuera; ya que una buena relación empresa-proveedor debe buscar lo mejor para todas las partes interesadas siempre buscando una convivencia de ganar-ganar. Para cada empresa lo mejor es poder buscar todos o la mayor parte de los siguientes ítems:
 
     ul.lista-ul--color.lista-ul--separador.mb-5
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
@@ -43,7 +43,7 @@
         | Dos agentes mantienen una relación independiente pero mutuamente beneficiosa que mejora su capacidad de agregar valor a su identidad corporativa. 
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-        | Elección de un proveedor eficiente La característica principal es la rapidez con la que se ejecuta el proceso. 
+        p.mb-0 Elección de un proveedor eficiente. La característica principal es la rapidez con la que se ejecuta el proceso. 
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Los pedidos retrasados significan dinero perdido y clientes perdidos. 

@@ -51,7 +51,7 @@
     ul.lista-ul--color
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
-        | Demostrar capacidad de producción con productos y servicios que se encuentran con todos los requisitos legales y reglamentarios del cliente
+        | Demostrar capacidad de producción con productos y servicios que se encuentran con todos los requisitos legales y reglamentarios del cliente.
       li(style="margin-bottom: 2px; display: flex" data-aos="fade-right")
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Mejorar la satisfacción del cliente o experiencia de usuario con la aplicación del sistema, en este sistema se incluye las mejoras continuas y la garantía de conformidad para con los clientes junto con la normatividad y reglamento de cumplimiento a cabalidad de las misiones empresariales.
@@ -91,7 +91,7 @@
         i.fas.fa-chevron-circle-right(style="color: #FE7062;")
         | Una moda.
     
-    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Tipos de #[em benchmarking]
+    .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Tipos de <i>benchmarking</i>
 
     p.mb-5(data-aos="fade-right") Para Espinosa (2021), dentro del #[em benchmarking] se pueden destacar cuatro niveles de implementación:
 
@@ -269,7 +269,7 @@
       li(style="display: flex" data-aos="fade-right")
         .lista-ol--cuadro__vineta
           span.text-bold 6
-        p.mb-0 #[strong Cash (efectivo)]: ¿El proveedor es independiente financieramente o trabaja con la participación de terceros?
+        p.mb-0 <strong><i>Cash</i> (efectivo)</strong>: ¿El proveedor es independiente financieramente o trabaja con la participación de terceros?
       li(style="display: flex" data-aos="fade-right")
         .lista-ol--cuadro__vineta
           span.text-bold 7
@@ -285,7 +285,7 @@
       li(style="display: flex" data-aos="fade-right")
         .lista-ol--cuadro__vineta
           span.text-bold 10
-        p.mb-0 #[strong Communication efficiency (eficiencia en la comunicación)]: ¿El proveedor cuenta con los medios de comunicación necesarios para responder a las consultas que se le hacen?
+        p.mb-0 <strong> <i>Communication efficiency</i> (eficiencia en la comunicación)</strong>: ¿El proveedor cuenta con los medios de comunicación necesarios para responder a las consultas que se le hacen?
 
     .h4.mb-5 <i class="fas fa-crosshairs fa-spin" style="color: #57DBD8; margin-left: 8px; font-size: larger" data-aos="fade-right"></i> Método MOORA
 
@@ -325,16 +325,16 @@
                 td(style="border: 2px solid #E8E8E8;") Medir ingresos a partir de las capacidades de inventarios de la empresa, qué tanto del inventario está generando utilidad para la empresa.<br><br>#[strong Nota]: el valor soñado es el más alto posible de ingresos.
               tr
                 td(style="border: 2px solid #E8E8E8;").text-center Periodo de Maduración Económica PME
-                td(style="border: 2px solid #E8E8E8;") Plazo medio de los stocks de materias primas + Productos en curso + productos terminados + Plazo medio de cobro
+                td(style="border: 2px solid #E8E8E8;") Plazo medio de los <i>stocks</i> de materias primas + Productos en curso + productos terminados + Plazo medio de cobro
                 td(style="border: 2px solid #E8E8E8;") Contar los días que transcurren entre fecha que los productos entran a inventario y el día de su venta, para ese día se debe tomar el día que pagan el producto especialmente en casos de ventas a crédito.
               tr
                 td(style="border: 2px solid #E8E8E8;").text-center Periodo de Maduración Financiera PMF
                 td(style="border: 2px solid #E8E8E8;") PME - Plazo medio de pago a los proveedores
                 td(style="border: 2px solid #E8E8E8;") Calcular el valor del fondo de maniobra, este valor sale de la siguiente fórmula:<br><br>Multiplicar los días de PME por el costo diario de la empresa. 
               tr
-                td(style="border: 2px solid #E8E8E8;").text-center Plazo de Stock
-                td(style="border: 2px solid #E8E8E8;") Existencias o stock final / Compras * 365
-                td(style="border: 2px solid #E8E8E8;") Medir en factor de tiempo la dinámica del stock de productos frente a las políticas de compra, se busca el número total de días que se encuentra un producto en stock hasta su venta.
+                td(style="border: 2px solid #E8E8E8;").text-center Plazo de <i>stock</i>
+                td(style="border: 2px solid #E8E8E8;") Existencias o <i>stock</i> final / Compras * 365
+                td(style="border: 2px solid #E8E8E8;") Medir en factor de tiempo la dinámica del <i>stock</i> de productos frente a las políticas de compra, se busca el número total de días que se encuentra un producto en <i>stock</i> hasta su venta.
               tr
                 td(style="border: 2px solid #E8E8E8;").text-center Rentabilidad sobre la Inversión
                 td(style="border: 2px solid #E8E8E8;") Rentabilidad anual de la empresa / Valor promedio de los inventarios

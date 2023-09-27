@@ -46,7 +46,7 @@
           .BGR03C.hg-01.px-4
             .BGR06.img-01.p-3
               .h4.text-center.mb-0 Artículos A
-            p En cantidad, suelen ocupar #[strong el 20% de los inventarios], pero son los que más rotación experimentan y, por tanto, tienen una importancia estratégica. Las referencias A son los productos en los que la empresa tiene invertido más presupuesto y generan el 80% de los ingresos, por lo que es prioritario evitar las roturas de stock.
+            p En cantidad, suelen ocupar #[strong el 20 % de los inventarios], pero son los que más rotación experimentan y, por tanto, tienen una importancia estratégica. Las referencias A son los productos en los que la empresa tiene invertido más presupuesto y generan el 80 % de los ingresos, por lo que es prioritario evitar las roturas de stock.
             p Los productos de mayor importancia, categoría A, deberían estar asociados a un mayor nivel de servicio.
         .col-12.d-lg-none.d-flex
           <br><br>
@@ -54,14 +54,14 @@
           .BGR03F.hg-01.px-4
             .BGR07.img-01.p-3
               .h4.text-center.mb-0 Artículos B
-            p.mb-0 Comprenden la #[strong franja de rotación media y suelen representar, en cantidad, el 30% de los inventarios]. Estos artículos se renuevan con menos velocidad, por lo que su valor y relevancia es menor frente a los productos A.
+            p.mb-0 Comprenden la #[strong franja de rotación media y suelen representar, en cantidad, el 30 % de los inventarios]. Estos artículos se renuevan con menos velocidad, por lo que su valor y relevancia es menor frente a los productos A.
         .col-12.d-lg-none.d-flex
           <br><br>
         .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
           .BGR03C.hg-01.px-4
             .BGR06.img-01.p-3
               .h4.text-center.mb-0 Artículos C
-            p.mb-0 #[strong Son los más numerosos, llegando a suponer el 50% de las referencias almacenadas]. Sin embargo, también son los menos demandados por parte de los clientes.
+            p.mb-0 #[strong Son los más numerosos, llegando a suponer el 50 % de las referencias almacenadas]. Sin embargo, también son los menos demandados por parte de los clientes.
 
     .row.justify-content-center.mb-5
       .col-lg-8
